@@ -6,8 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Domain\" />
     <Folder Include="Data\" />
+    <Folder Include="Domain\UseCases\" />
     <Folder Include="Presentation\" />
   </ItemGroup>
 

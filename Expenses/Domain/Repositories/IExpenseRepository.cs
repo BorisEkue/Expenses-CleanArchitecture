@@ -6,7 +6,7 @@ using Expenses.Domain.Entities;
 
 namespace Expenses.Domain.Repositories
 {
-     interface IExpenseRepository
+    interface IExpenseRepository
     {
         void Create(Expense expense);
     }
