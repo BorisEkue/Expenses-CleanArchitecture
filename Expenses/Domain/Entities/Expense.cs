@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Expenses.Domain.Entities
 {
-    class Expense
+    public class Expense
     {
         public Guid Id { get; }
         public Guid UserId { get; }
